@@ -39,6 +39,7 @@ THE SOFTWARE.
 
 #include <lua.h>
 #include <lauxlib.h>
+#include "compat53/compat-5.3.h"
 
 /* Evdev wrappers */
 
