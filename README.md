@@ -1,3 +1,14 @@
+Fork of Evdev
+===
+
+This fork edited makefile and rockspec to make sure appropriate code
+is compiled and linked for Lua 5.1 / LuaJIT compatibility. To install
+using luarocks, execute
+
+```bash
+luarocks make evdev-scm-1.rockspec
+```
+
 Evdev Lua module
 ===
 
